@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>國王企鵝</heading>
+<book>
+<title>南極之旅</title>
+<author>無名氏</author>
+<publisher>我家出版社</publisher>
+<price>5000</price>
+</book>
+<book>
+<title>阿根廷之旅</title>
+<author>無名氏</author>
+<publisher>我家出版社</publisher>
+<price>8000</price>
+</book>
+</books>
